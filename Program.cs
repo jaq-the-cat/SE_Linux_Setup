@@ -15,16 +15,16 @@ using Sandbox.Game.EntityComponents;
 using SpaceEngineers.Game.ModAPI.Ingame;
 using VRage.Game.ObjectBuilders.Definitions;
 
-// Change this namespace for each script you create.
-namespace SpaceEngineers.UWBlockPrograms.BatteryMonitor {
+// Script name
+namespace SpaceEngineers.UWBlockPrograms.ScriptName {
     public sealed class Program : MyGridProgram {
 #endregion
 
-// Code here
-
+// Constructor
 public Program() {
 }
 
+// Entrypoint
 public void Main(string args) {
 }
 

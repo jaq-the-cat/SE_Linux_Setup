@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sed -i "s/USERNAMEHERE/$USER/g" sescript.csproj
